@@ -1,0 +1,99 @@
+{
+  "as_of": "2026-09-01",
+  "bills": [
+    {
+      "id": "power",
+      "name": "City Power & Light",
+      "category": "utility",
+      "cadence": "monthly",
+      "due_day": 12,
+      "grace_days": 5,
+      "late_fee": 18.50,
+      "autopay": false,
+      "typical_amount": 141.00,
+      "last_paid": "2026-08-11",
+      "history": [128.4, 134.9, 151.2, 139.7, 141.0, 288.6]
+    },
+    {
+      "id": "water",
+      "name": "Metro Water District",
+      "category": "utility",
+      "cadence": "monthly",
+      "due_day": 20,
+      "grace_days": 7,
+      "late_fee": 10.0,
+      "autopay": true,
+      "typical_amount": 62.0,
+      "last_paid": "2026-08-19",
+      "history": [58.0, 61.0, 63.5, 60.0, 62.0, 61.5]
+    },
+    {
+      "id": "internet",
+      "name": "Fiberline Broadband",
+      "category": "utility",
+      "cadence": "monthly",
+      "due_day": 3,
+      "grace_days": 10,
+      "late_fee": 0.0,
+      "autopay": true,
+      "typical_amount": 70.0,
+      "last_paid": "2026-08-02",
+      "history": [60.0, 60.0, 60.0, 70.0, 70.0, 70.0]
+    },
+    {
+      "id": "streaming_a",
+      "name": "Streamly Premium",
+      "category": "subscription",
+      "cadence": "monthly",
+      "due_day": 7,
+      "grace_days": 0,
+      "late_fee": 0.0,
+      "autopay": true,
+      "typical_amount": 15.99,
+      "last_paid": "2026-08-07",
+      "last_used": "2026-08-30",
+      "history": [11.99, 11.99, 15.99, 15.99, 15.99, 15.99]
+    },
+    {
+      "id": "streaming_b",
+      "name": "CloudTunes Family",
+      "category": "subscription",
+      "cadence": "monthly",
+      "due_day": 15,
+      "grace_days": 0,
+      "late_fee": 0.0,
+      "autopay": true,
+      "typical_amount": 16.99,
+      "last_paid": "2026-08-15",
+      "last_used": "2026-05-02",
+      "history": [16.99, 16.99, 16.99, 16.99, 16.99, 16.99]
+    },
+    {
+      "id": "gym",
+      "name": "Iron Yard Fitness",
+      "category": "subscription",
+      "cadence": "monthly",
+      "due_day": 1,
+      "grace_days": 0,
+      "late_fee": 0.0,
+      "autopay": true,
+      "typical_amount": 39.0,
+      "last_paid": "2026-08-01",
+      "last_used": "2026-06-14",
+      "history": [39.0, 39.0, 39.0, 39.0, 39.0, 39.0]
+    },
+    {
+      "id": "insurance_auto",
+      "name": "Keystone Auto Insurance",
+      "category": "insurance",
+      "cadence": "monthly",
+      "due_day": 22,
+      "grace_days": 3,
+      "late_fee": 25.0,
+      "autopay": false,
+      "typical_amount": 132.0,
+      "last_paid": "2026-08-21",
+      "history": [132.0, 132.0, 132.0, 132.0, 132.0, 132.0]
+    }
+  ]
+}

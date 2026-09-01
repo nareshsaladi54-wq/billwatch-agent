@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-01",
+  "transactions": [
+    {"date": "2026-08-29", "merchant": "City Power & Light", "amount": 288.60, "bill_id": "power"},
+    {"date": "2026-08-30", "merchant": "Streamly Premium", "amount": 15.99, "bill_id": "streaming_a"},
+    {"date": "2026-08-15", "merchant": "CloudTunes Family", "amount": 16.99, "bill_id": "streaming_b"},
+    {"date": "2026-08-01", "merchant": "Iron Yard Fitness", "amount": 39.00, "bill_id": "gym"},
+    {"date": "2026-08-19", "merchant": "Metro Water District", "amount": 61.50, "bill_id": "water"},
+    {"date": "2026-08-02", "merchant": "Fiberline Broadband", "amount": 70.00, "bill_id": "internet"},
+    {"date": "2026-08-21", "merchant": "Keystone Auto Insurance", "amount": 132.00, "bill_id": "insurance_auto"},
+    {"date": "2026-08-24", "merchant": "BrightBox Storage", "amount": 89.00, "bill_id": null},
+    {"date": "2026-08-26", "merchant": "BrightBox Storage", "amount": 89.00, "bill_id": null},
+    {"date": "2026-08-12", "merchant": "Corner Market", "amount": 43.11, "bill_id": null}
+  ]
+}
