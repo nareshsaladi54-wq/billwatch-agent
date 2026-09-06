@@ -4,9 +4,9 @@
       "resources": {
         "runtimes": {
           "billwatch": {
-            "runtimeId": "billwatch_billwatch-o6zGDu5uYz",
-            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/billwatch_billwatch-o6zGDu5uYz",
-            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-billwatch-defau-ApplicationAgentBillwatch-sJIwggyo2bT3"
+            "runtimeId": "billwatch_billwatch-S3omVB93Tx",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/billwatch_billwatch-S3omVB93Tx",
+            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-billwatch-defau-ApplicationAgentBillwatch-44VRZot1EauX"
           }
         },
         "stackName": "AgentCore-billwatch-default",
