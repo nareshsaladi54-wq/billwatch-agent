@@ -4,13 +4,13 @@
       "resources": {
         "runtimes": {
           "billwatch": {
-            "runtimeId": "tmpbillwatch_billwatch-Dc90KhCieV",
-            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/tmpbillwatch_billwatch-Dc90KhCieV",
-            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-tmpbillwatch-de-ApplicationAgentBillwatch-5QiAhAX3UH7v"
+            "runtimeId": "billwatch_billwatch-o6zGDu5uYz",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/billwatch_billwatch-o6zGDu5uYz",
+            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-billwatch-defau-ApplicationAgentBillwatch-sJIwggyo2bT3"
           }
         },
-        "stackName": "AgentCore-tmpbillwatch-default",
-        "deployHash": "ca23013ca4e0bfe9"
+        "stackName": "AgentCore-billwatch-default",
+        "deployHash": "4f4676fb14c33551"
       }
     }
   }
