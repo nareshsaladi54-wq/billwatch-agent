@@ -65,7 +65,7 @@ AgentCore Memory and the seed/`data` files.
 
 ## 6. Tear down
 ```bash
-make destroy     # agentcore remove agent --name billwatch --yes && agentcore deploy --yes
+make destroy     # agentcore remove agent --name billwatch --yes || true; agentcore deploy --yes
 ```
 
 Repo: https://github.com/nareshsaladi54-wq/billwatch-agent
