@@ -1,0 +1,17 @@
+{
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "billwatch": {
+            "runtimeId": "tmpbillwatch_billwatch-Dc90KhCieV",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:544795558101:runtime/tmpbillwatch_billwatch-Dc90KhCieV",
+            "roleArn": "arn:aws:iam::544795558101:role/AgentCore-tmpbillwatch-de-ApplicationAgentBillwatch-5QiAhAX3UH7v"
+          }
+        },
+        "stackName": "AgentCore-tmpbillwatch-default",
+        "deployHash": "ca23013ca4e0bfe9"
+      }
+    }
+  }
+}
